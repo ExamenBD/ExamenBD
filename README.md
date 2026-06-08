@@ -1,8 +1,6 @@
 # 👋 Привет, я ExamenBD
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6A0DAD&center=true&vCenter=true&width=500&lines=Programmer+%7C+Backend+%7C+Базы+данных;Пишу+на+Python+и+Go;Люблю+чистый+код+и+SQL" alt="Typing SVG" />
-</div>
+
 
 ## 🔭 Что здесь?
 
