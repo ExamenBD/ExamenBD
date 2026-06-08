@@ -30,8 +30,8 @@
 
 ### 📫 Связаться со мной
 
-- Telegram: [@ExamenBD](https://t.me/ExamenBD) *(укажите реальный, если есть)*  
-- Email: `examenbd@example.com`
+- Telegram: [@ExamenBD](https://t.me/ExamenBD) 
+- Email: `dafmann2@mail.ru`
 
 ---
 
