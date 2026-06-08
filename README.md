@@ -1,8 +1,6 @@
 # 🌐 Привет, я promokodsex
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=550&lines=Web+Developer+%7C+Frontend+%7C+Backend;Создаю+сайты+от+идеи+до+сервера;Чистый+код+%2B+удобство+для+людей" alt="Typing SVG" />
-</div>
+
 
 ## 📁 Что здесь?
 
