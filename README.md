@@ -1,38 +1,34 @@
-# 👋 Привет, я ExamenBD
+# 🌐 Привет, я promokodsex
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=550&lines=Web+Developer+%7C+Frontend+%7C+Backend;Создаю+сайты+от+идеи+до+сервера;Чистый+код+%2B+удобство+для+людей" alt="Typing SVG" />
+</div>
 
+## 📁 Что здесь?
 
-## 🔭 Что здесь?
+Этот репозиторий — моя **веб-мастерская** и портфолио проектов.  
+Здесь я собираю сайты, скрипты и наработки, которые делают интернет красивее и удобнее.
 
-Этот репозиторий — моё **личное портфолио** и место для экспериментов.  
-Здесь я собираю проекты, которые показывают мой путь в программировании.
+### 🧰 Мой стек
 
-### 🧰 Мои инструменты
+- **Фронтенд:** HTML5, CSS3, JavaScript (React, Vue)  
+- **Бэкенд:** Python (Django/Flask), PHP, Node.js  
+- **Инструменты:** Git, Docker, VS Code, Figma  
 
-- **Языки:** Python, Go, C#, SQL  
-- **Базы данных:** PostgreSQL, MySQL, SQLite  
-- **Инфраструктура:** Linux, Docker, Git  
-- **Автоматизация:** Bash, GitHub Actions
+### 🌱 Сейчас в фокусе
 
-### 📌 Текущие проекты
-
-- **Exam** — что-то связанное с тестированием / алгоритмами  
-- **BankMachine** — симуляция банкомата (C#)  
-- **testExamenBD.github.io** — мой GitHub Pages (HTML)
-
-### 🌱 Сейчас изучаю
-
-- Микросервисы  
-- Оптимизацию сложных SQL-запросов  
-- CI/CD на GitHub Actions
+- Адаптивная и кроссбраузерная вёрстка  
+- Оптимизация скорости загрузки сайтов  
+- Интеграция API и микросервисов  
+- Доступность (a11y) и SEO
 
 ### 📫 Связаться со мной
 
-- Telegram: [@ExamenBD](https://t.me/ExamenBD) 
-- Email: `dafmann2@mail.ru`
+- Telegram: [@promokodsex](https://t.me/promokodsex) 
+- Email: `justglass2@mail.ru`
 
 ---
 
 <div align="center">
-  <i>“Код как экзамен — лучше быть готовым, чем гадать.”</i>
+  <i>“Хороший сайт — как хороший промокод: всё работает, и все довольны.”</i>
 </div>
